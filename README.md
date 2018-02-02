@@ -29,3 +29,5 @@ sbt -Dbrowser=firefox -Dwebdriver.gecko.driver=${driver_path} test
 The latest versions of the firefox and chrome browsers and their respective drivers should be installed.
 
 
+
+
